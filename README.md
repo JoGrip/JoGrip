@@ -5,7 +5,7 @@
 - <b>C++ Dice Game</b>
   - [Dice Game using Classes and Header Files](https://github.com/JoGrip/Dice-Game)
 - <b>C++ Data Structure Program</b>
-  - [Matrix Fun - Populate, Search, Display, Multiply](GitHubLinkToProject)
+  - [Matrix Fun - Populate, Search, Display, Multiply](https://github.com/JoGrip/Simple-Matrix---Populate-Search-Display)
 - <b>Java Program</b>
   - [Password Creation/Validation](GitHubLinkToProject)
   - [Project Name/Description](GitHubLinkToProject)
