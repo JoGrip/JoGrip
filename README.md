@@ -7,7 +7,7 @@
 - <b>C++ Data Structure Program</b>
   - [Matrix Fun - Populate, Search, Display, Multiply](https://github.com/JoGrip/Simple-Matrix---Populate-Search-Display)
 - <b>Java Program</b>
-  - [Password Creation/Validation](GitHubLinkToProject)
+  - [Password Creation/Validation]([GitHubLinkToProject](https://github.com/JoGrip/Password-Creation-Validation))
   - [Project Name/Description](GitHubLinkToProject)
   - [Project Name/Description](GitHubLinkToProject)
   - [Project Name/Description](GitHubLinkToProject)
