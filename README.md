@@ -3,7 +3,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>C++ Dice Game</b>
-  - [Practicing Class Usage with Inheritance](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Dice Game using Classes and Header Files](https://github.com/JoGrip/Dice-Game)
 - <b>C++ Data Structure Program</b>
   - [Matrix Fun - Populate, Search, Display, Multiply](GitHubLinkToProject)
 - <b>Java Program</b>
