@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 Coding Projects:</h2>
 
-- <b>C++ Dice Game</b>
-  - [Dice Game using Classes and Header Files](https://github.com/JoGrip/Dice-Game)
-- <b>C++ Data Structures Programs</b>
+- <b>C++</b>
+  - [Dice Game](https://github.com/JoGrip/Dice-Game)
   - [Matrix Fun - Populate, Search, Display, Multiply](https://github.com/JoGrip/Simple-Matrix---Populate-Search-Display)
 - <b>Java Program</b>
   - [Password Creation/Validation](https://github.com/JoGrip/Password-Creation-Validation)
