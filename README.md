@@ -13,6 +13,7 @@
 - <b>Python</b>
   - [Project Name/Description](GitHubLinkToProject)
 
+<!-- Arrows/hyphens denotes a comment. Remove to make reappear
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshGrippi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -22,7 +23,7 @@
 [youtube]: InsertSocialMediaLinkHere
 [instagram]: InsertSocialMediaLinkHere
 [linkedin]: InsertSocialMediaLinkHere
-
+-->
 <!--
 **JoGrip/JoGrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
