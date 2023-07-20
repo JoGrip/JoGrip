@@ -16,7 +16,7 @@
   - [Portfolio Website](https://github.com/JoGrip/PortfolioSite)
   - [WeatherScraper - Grabs and Displays Weather Forecast](https://github.com/JoGrip/WeatherScraper)
 - <b>MySQL</b>
-  - [Secret Diary - MySQL Database Project](https://github.com/JoGrip/PortfolioSite)
+  - [Secret Diary - MySQL Database Project](https://github.com/JoGrip/SecretDiary)
 
 <!-- Arrows/hyphens denotes a comment. Remove to make reappear
 <h2> 🤳 Connect with me:</h2>
