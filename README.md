@@ -5,7 +5,7 @@
 - <b>C++</b>
   - [Dice Game](https://github.com/JoGrip/Dice-Game)
   - [Matrix Fun - Populate, Search, Display](https://github.com/JoGrip/Simple-Matrix---Populate-Search-Display)
-- <b>Java Program</b>
+- <b>Java/JavaScript</b>
   - [Password Creation/Validation](https://github.com/JoGrip/Password-Creation-Validation)
   - [Project Name/Description](GitHubLinkToProject)
   - [Project Name/Description](GitHubLinkToProject)
