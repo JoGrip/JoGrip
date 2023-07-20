@@ -15,7 +15,7 @@
 - <b>HTML/CSS/PHP</b>
   - [Portfolio Website](https://github.com/JoGrip/PortfolioSite)
   - [WeatherScraper - Grabs and Displays Weather Forecast](https://github.com/JoGrip/WeatherScraper)
-- <b>PMySQL</b>
+- <b>MySQL</b>
   - [Secret Diary - MySQL Database Project](https://github.com/JoGrip/PortfolioSite)
 
 <!-- Arrows/hyphens denotes a comment. Remove to make reappear
