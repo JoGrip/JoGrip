@@ -12,7 +12,7 @@
   - [Project Name/Description](GitHubLinkToProject)
 - <b>Python</b>
   - [Project Name/Description](GitHubLinkToProject)
-- <b>HTML/CSS</b>
+- <b>HTML/CSS/PHP</b>
   - [Portfolio Website](GitHubLinkToProject)
   - [WeatherScraper - Grabs and Displays Weather Forecast](GitHubLinkToProject)
 
