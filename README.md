@@ -13,7 +13,7 @@
 - <b>Python</b>
   - [Project Name/Description](GitHubLinkToProject)
 - <b>HTML/CSS/PHP</b>
-  - [Portfolio Website](GitHubLinkToProject)
+  - [Portfolio Website](https://github.com/JoGrip/PortfolioSite)
   - [WeatherScraper - Grabs and Displays Weather Forecast](GitHubLinkToProject)
 
 <!-- Arrows/hyphens denotes a comment. Remove to make reappear
